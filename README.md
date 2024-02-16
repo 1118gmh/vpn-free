@@ -1,2 +1,156 @@
-# vpn-
-免费vpn 魔法上网 科学上网 正确上网 免费梯子 免费节点推荐 VPN工具 (ISS、SSR、V2Ray、Trojan、Clash、winXray、Shadow)
+# 推荐订阅节点工具及教程
+**工具的话,我自己用的是clash,教程这里就不写了,网上有很多,这里推荐个写的比较好的**
+【1】[1.1 iOS苹果 节点订阅使用教程 点我](https://github.com/shadowrocketHelp/help/wiki/1.1-iOS%E8%8B%B9%E6%9E%9C-%E8%8A%82%E7%82%B9%E8%AE%A2%E9%98%85%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B)
+
+【2】[1.2 Android安卓 节点订阅使用教程 点我](https://github.com/shadowrocketHelp/help/wiki/1.2-Android%E5%AE%89%E5%8D%93-%E8%8A%82%E7%82%B9%E8%AE%A2%E9%98%85%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B)
+
+【3】[1.3 Windows电脑 节点订阅使用教程 点我](https://github.com/shadowrocketHelp/help/wiki/1.3-Windows-%E8%8A%82%E7%82%B9%E8%AE%A2%E9%98%85%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B)
+
+【4】[1.4 Mac电脑 节点订阅使用教程 点我](https://github.com/shadowrocketHelp/help/wiki/1.4-Mac%E7%94%B5%E8%84%91-%E8%8A%82%E7%82%B9%E8%AE%A2%E9%98%85%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B)
+
+
+# 2024.1.29 最新免费节点推荐
+**注意:免费节点随时失效,且安全性没有保障,建议只是临时用用,推荐购买稳定的付费机场,付费机场性价比推荐见下文**
+
+https://subs.zeabur.app/clash
+
+https://neko-warp.nloli.xyz/
+
+https://v2y.xyz/api/v1/client/subscribe?token=2533ce3df935ebaf4143fcc3df068ebd
+
+https://kbjc.top/api/v1/client/subscribe?token=97b97e1b77c70ffcc598033700188a26
+
+http://mtw.so/5TZnZH
+
+https://suo.yt/F9aueOe
+
+https://sub.cm/iFRGOmJ
+
+http://1i8.cn/nwdtl
+
+https://my5353.com/YeNZR
+
+https://bakapie.cf/api/v1/client/subscribe?token=764255b17754ededb45c551d3ee9083f&flag=clash
+
+https://link.jscdn.cn/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3QvcyFBcWNyX0lvTkZNV0FlX21WLWxnMkRiclhvNHM_ZT1MZVI4Ym8
+
+https://amz.fun/XO7Pk
+
+https://sub.cloudflare.quest
+
+https://my5353.com/kunkun
+
+https://sub.sharecentre.online/sub
+
+https://sub.sharecentre.online/clash/scp.yml
+
+https://openit.ml/Clash.yaml
+
+https://github.xiaoku666.tk/
+
+https://raw.githubusercontent.com/yu-steven/openit/main/Clash.yaml
+
+https://openit.daycat.space/clash
+
+https://tt.vg/freeclash
+
+https://ghproxy.com/https://raw.githubusercontent.com/kxswa/k/k/clash
+
+https://git.io/emzclash
+
+https://cdn.jsdelivr.net/gh/oslook/clash-freenode@main/clash.yaml
+
+https://cdn.statically.io/gh/oslook/clash-freenode/main/clash.yaml
+
+https://proxypool.toshiki.top/clash/proxies
+
+https://tsutsu.top/JEmV1o5
+
+http://hazz.win/KmpQdY
+
+https://dllx.tk/GreenFishYYDS
+
+https://openit.ml/long
+
+https://raw.fastgit.org/freefq/free/master/v2
+
+https://v1.mk/NJxbGcv
+
+https://suo.yt/1myZcHj
+
+https://sub.cm/kzBXnMV
+
+# 2024.1.29 最新稳定付费机场推荐
+**市面上有很多免费VPN，但大多数免费VPN都可能存在一定的安全隐患，不建议使用免费VPN，免费节点有时候是不错的选择，但是稳定性不好，也常常失效，而且上网速度非常慢,如果线路有用于办公或学习需要，则推荐使用更稳定的线路，付费节点可提供高速稳定的翻墙体验。**
+
+**以下为付费vpn购买官网,均需魔法上网,若无法魔法上网可以先用免费vpn连接后再进行购买**
+
+
+# [1.WgetCloud 全球加速 – 2024 稳定翻墙机场首选](https://invite.wgetcloud.ltd/auth/register?code=wyezqf)
+    - Trojan 多协议机场
+    - 高端专线翻墙机场
+    - 新用户注册8折优惠
+    WgetCloud （原 GaCloud） 是一家主打稳定翻墙的机场服务商，于 2021 年正式运营，采用国内优质 BGP 服务器接入，亚马逊 Global Accelerator 专线加速。WgetCloud 由海外团队运作，使用 Trojan 协议，套餐价格相对偏贵，属于高端翻墙机场，适合追求极致稳定的翻墙用户，如外贸工作、开发人员使用。支持定制套餐，重度翻墙用户或团队用户可在官网「增值服务」中进行流量和设备数量自定义套餐。套餐定制也支持流量包和限时1年时长的按量付费套餐。
+
+**套餐价格：**
+    - 基础专线：月付：￥49/月，120G流量/月。季付：￥147/季，180G流量/月。年付：￥588/年，240G流量/月。
+    - 优质专线：月付：￥59/月，140G流量/月。季付：￥177/季，210G流量/月。年付：￥708/年，280G流量/月。
+    - 精品专线：月付：￥69/月，160G流量/月。季付：￥207/季，240G流量/月。年付：￥828/年，320G流量/月。
+
+
+# [2.SpeedCAT 闪电猫机场](https://scaff01.scvipaff.com/auth/register?code=Hf3Q)
+    - IPLC 专线节点
+    - 高端翻墙机场
+    - Shadowsocks 翻墙机场
+    闪电猫 SpeedCAT 机场是一家主推高端稳定IPLC专线的翻墙机场，采用 Shadowsocks专用翻墙协议。SpeedCAT 机场除了支持免费试用之外，也常有优惠活动推出，年付还有一定程度优惠。此外，SpeedCAT 机场的流媒体解锁也十分不错，Netflix、Disney+ 解锁都比较稳定。
+    最高速度超过 1Gbps 带宽
+
+**套餐价格：**
+    - 流行猫：￥220年，600G流量整年。
+    - 迷你猫：¥19/月，100G流量/月。
+    - 闪电猫：¥35/月，200G流量/月。
+    - 霹雳猫：¥79/月，500G流量/月。
+    - 雷神猫：¥155/月，1000G流量/月。
+
+# [3.橘子云 – 便宜老牌翻墙机场](https://juzi69.com/auth/register?code=mlvr)
+    - 老牌翻墙机场
+    - 稳定中转机场
+    - IPLC专线翻墙机场
+    橘子云是一家运营时间超过2年的翻墙服务商，提供SSR和V2ray翻墙协议节点，国内中转和IPLC内网专线。IPLC专线不经过 GFW，即便是敏感时期，稳定性也有保证，不担心被封锁。此外，橘子云机场也常有优惠活动，套餐包年优惠力度比较大。节点都有标注倍率，一般线路质量更高的节点倍率也会更高。
+    最高速度超过 1Gbps 带宽
+
+**套餐价格：**
+    - 入门版：￥19.9/月，100G流量，限速60M，限3台设备。不可使用IPLC专线节点。
+    - 基础版：￥29.9/月，200G流量，限速150M，限5台设备。不可使用IPLC专线节点。
+    - 标准版：￥39.9/月，350G流量，限速300M，限8台设备。不可使用IPLC专线节点。
+    - 旗舰版：￥59.9/月，600G流量，不限速，限16台设备。包含IPLC在内的全节点解锁。
+    - 旗舰大流量：￥99/月，1200G流量，不限速，限16台设备。包含IPLC在内的全节点解锁。
+    
+# [4.FlyingBird 飞鸟机场](https://fbaff02.flyb-aff01.com/auth/register?code=6jan)
+    - IPLC专线翻墙机场
+    FlyingBird 飞鸟机场是一家新晋 Shadowsocks 翻墙服务商，采用国内中转和IEPL内网专线节点，服务稳定可靠。电脑和安卓系统可以使用推荐的 Clash 客户端，iOS需要搭配第三方付费软件如 Shadowrocket 或 Stash 使用。FlyingBird 飞鸟机场对年付套餐优惠力度较大，所有套餐季付9折，半年85折，年付8折。除了优惠力度大之外，飞鸟机场对 Netflix、Disney+ 流媒体解锁支持度也很好。
+    最高速度超过 1Gbps 带宽
+
+**套餐价格：**
+    - 青铜套餐：¥15/月，100G流量/月，不限速不限设备。
+    - 白银套餐：¥30/月，200G流量/月，不限速不限设备。
+    - 黄金套餐：¥75/月，500G流量/月，不限速不限设备。
+    - 钻石套餐：¥150/月，1000G流量/月，不限速不限设备。
+
+# [5.速云梯](https://suyunti668.xyz/auth/register?code=mRT9)
+    - 稳定中转机场
+    - IPLC专线翻墙机场
+    - SSR/V2ray 机场
+
+    速云梯提供海量 SSR/V2ray 翻墙协议节点，有国内中转和IPLC内网专线。IPLC专线不经过 GFW，即便是敏感时期，稳定性也有保证，不担心被封锁。年付用户可使用8折优惠码：ac888
+    最高速度超过 1Gbps 带宽
+
+**套餐价格：**
+    - 入门版：￥15.9/月，100G流量。
+    - 基础版：￥25.9/月，200G流量。
+    - 标准版：￥35.9/月，350G流量。
+    - 旗舰版：￥55.9/月，600G流量。
+
+
+
+
