@@ -141,21 +141,7 @@ https://sub.cm/kzBXnMV
     - 黄金套餐：¥75/月，500G流量/月，不限速不限设备。<br>
     - 钻石套餐：¥150/月，1000G流量/月，不限速不限设备。<br>
 
-# [5.速云梯](https://suyunti668.xyz/auth/register?code=mRT9)
-    - 稳定中转机场
-    - IPLC专线翻墙机场
-    - SSR/V2ray 机场
-
-    速云梯提供海量 SSR/V2ray 翻墙协议节点，有国内中转和IPLC内网专线。IPLC专线不经过 GFW，即便是敏感时期，稳定性也有保证，不担心被封锁。年付用户可使用8折优惠码：ac888
-    最高速度超过 1Gbps 带宽
-
-**套餐价格：**<br>
-    - 入门版：￥15.9/月，100G流量。<br>
-    - 基础版：￥25.9/月，200G流量。<br>
-    - 标准版：￥35.9/月，350G流量。<br>
-    - 旗舰版：￥55.9/月，600G流量。<br>
-
-# [6.Anyland 机场](https://any66.cc/#/register?code=uIvMc6uD)
+# [5.Anyland 机场](https://any66.cc/#/register?code=uIvMc6uD)
     - 稳定中转机场
     - 专线加速节点
     - 一键翻墙VPN客户端
