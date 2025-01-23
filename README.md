@@ -140,18 +140,8 @@ https://sub.cm/kzBXnMV
     - 旗舰版：￥59.9/月，600G流量，不限速，限16台设备。包含IPLC在内的全节点解锁。<br>
     - 旗舰大流量：￥99/月，1200G流量，不限速，限16台设备。包含IPLC在内的全节点解锁。<br>
     
-# [4.FlyingBird 飞鸟机场](https://fbaff02.flyb-aff01.com/auth/register?code=6jan)
-    - IPLC专线翻墙机场
-    FlyingBird 飞鸟机场是一家新晋 Shadowsocks 翻墙服务商，采用国内中转和IEPL内网专线节点，服务稳定可靠。电脑和安卓系统可以使用推荐的 Clash 客户端，iOS需要搭配第三方付费软件如 Shadowrocket 或 Stash 使用。FlyingBird 飞鸟机场对年付套餐优惠力度较大，所有套餐季付9折，半年85折，年付8折。除了优惠力度大之外，飞鸟机场对 Netflix、Disney+ 流媒体解锁支持度也很好。
-    最高速度超过 1Gbps 带宽
 
-**套餐价格：**<br>
-    - 青铜套餐：¥15/月，100G流量/月，不限速不限设备。<br>
-    - 白银套餐：¥30/月，200G流量/月，不限速不限设备。<br>
-    - 黄金套餐：¥75/月，500G流量/月，不限速不限设备。<br>
-    - 钻石套餐：¥150/月，1000G流量/月，不限速不限设备。<br>
-
-# [5.Anyland 机场](https://any66.cc/#/register?code=uIvMc6uD)
+# [4.Anyland 机场](https://any66.cc/#/register?code=uIvMc6uD)
     - 稳定中转机场
     - 专线加速节点
     - 一键翻墙VPN客户端
