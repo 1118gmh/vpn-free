@@ -141,21 +141,6 @@ https://sub.cm/kzBXnMV
     - 旗舰大流量：￥99/月，1200G流量，不限速，限16台设备。包含IPLC在内的全节点解锁。<br>
     
 
-# [4.Anyland 机场](https://any66.cc/#/register?code=uIvMc6uD)
-    - 稳定中转机场
-    - 专线加速节点
-    - 一键翻墙VPN客户端
-    anyland 是一家成立于2021年12月的翻墙机场，支持 Trojan 和 Shadowsocks 翻墙协议，国内三线接入。Anyland 机场拥有定制的一键翻墙客户端，支持 Mac 和 Windows 平台，Android 用户推荐使用 Clash 或 Surfboard，iOS 用户需要自行购买 Shadowrocket 或 Stash 搭配使用。
-    最高速度超过 1Gbps 带宽
-
-**套餐价格：**<br>
-    - 体验套餐：￥11.8/月，100G流量。<br>
-    - Basic 套餐：￥20/月，160G流量。<br>
-    - Plus 套餐，￥38/月，380G流量。<br>
-
-
-
-
 
 
 
