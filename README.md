@@ -90,7 +90,7 @@ https://sub.cm/kzBXnMV
 **以下为付费vpn购买官网,均需魔法上网,若无法魔法上网可以先用免费vpn连接后再进行购买**
 
 
-# [1.SakuraCat](https://sakuracat-1.com/user/#/register?code=5VvOcFV0)
+# [1.SakuraCat](https://sakuracat-1.com/register?code=5VvOcFV0)
 
     - SakuraCat 翻墙机场
     - 拥有多条商务级优化线路
