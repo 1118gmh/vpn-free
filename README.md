@@ -93,13 +93,21 @@ http://1i8.cn/nwdtl
 
 https://my5353.com/YeNZR
 https://bakapie.cf/api/v1/client/subscribe?token=764255b17754ededb45c551d3ee9083f&flag=clash
+
 https://link.jscdn.cn/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3QvcyFBcWNyX0lvTkZNV0FlX21WLWxnMkRiclhvNHM_ZT1MZVI4Ym8
+
 https://amz.fun/XO7Pk
+
 https://sub.cloudflare.quest
+
 https://my5353.com/kunkun
+
 https://sub.sharecentre.online/sub
+
 https://sub.sharecentre.online/clash/scp.yml
+
 https://openit.ml/Clash.yaml
+
 https://github.xiaoku666.tk
 https://raw.githubusercontent.com/yu-steven/openit/main/Clash.yaml
 https://openit.daycat.space/clash
@@ -127,7 +135,7 @@ https://sub.cm/kzBXnMV
 
 **以下为付费vpn购买官网,均需魔法上网,若无法魔法上网可以先用免费vpn连接后再进行购买**
 
-# [1.CloudFisher]([https://sakuracat-1.com/register?code=5VvOcFV0](https://cloudfisher.net/web/#/login?code=FI1BJ8O7))
+# [1.CloudFisher](https://cloudfisher.net/web/#/login?code=FI1BJ8O7)
 
     - CloudFisher 翻墙机场
     - 5000Mbps千兆网络
