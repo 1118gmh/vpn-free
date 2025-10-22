@@ -23,7 +23,42 @@ https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/clash.yml
 
 **以下为付费vpn购买官网,均需魔法上网,若无法魔法上网可以先用免费vpn连接后再进行购买**
 
-# [1.CloudFisher](https://cloudfisher.net/web/#/login?code=FI1BJ8O7)
+
+# [1.赔钱机场](https://xn--mes358aby2apfg.site/register?code=JuashL7z)
+
+    - 超便宜低价高速机场
+
+**套餐价格：**<br>
+    **按月算**<br>
+    - 套餐1：￥2.00/月，100G流量/月。<br>
+    - 套餐2：￥4.00/月，500G流量/月。<br>
+    - 套餐3：￥9.00/月，1000G流量/月。<br>
+    - 套餐4：￥19.00/月，5000G流量/月。<br>
+    - 套餐5：￥60.00/月，20000G流量/月。<br>
+    **按流量算，不限时**<br>
+    - 套餐1：￥28.00，1000G流量。<br>
+    - 套餐2：￥103.00，4000G流量。<br>
+    - 套餐3：￥133.00，6000G流量。<br>
+    - 套餐4：￥343.00，20000G流量。<br>
+
+# [2.流量光机场](https://llgjc1.com/#/register?code=IAbqU33J)
+
+    - 超便宜低价高速机场
+
+**套餐价格：**<br>
+    **按月算**<br>
+    - 体验套餐：￥4.90/月，150G流量/月。<br>
+    - 高级套餐：￥9.90/月，300G流量/月。<br>
+    - 豪华套餐：￥14.90/月，500G流量/月。<br>
+    **按年算**<br>
+    - 年付套餐：￥20.00/年，60G流量/月。<br>
+    - 年付套餐Pro：￥40.00/年，150G流量/月。<br>
+    - 年付套餐ProMax：￥75.00/年，300G流量/月。<br>
+    **按流量算，不限时**<br>
+    - 套餐1：￥55.00，1000G流量。<br>
+    - 套餐2：￥135.00，3000G流量。<br>
+
+# [3.CloudFisher](https://cloudfisher.net/web/#/login?code=FI1BJ8O7)
 
     - CloudFisher 翻墙机场
     - 5000Mbps千兆网络
@@ -40,10 +75,10 @@ https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/clash.yml
     **按年算**<br>
     - 套餐1：￥60.00/年，每个月148G流量。<br>
     **按流量算，不限时**<br>
-    - 套餐1：￥40.00/月，300G流量。<br>
-    - 套餐2：￥80.00/月，1000G流量。<br>
+    - 套餐1：￥40.00，300G流量。<br>
+    - 套餐2：￥80.00，1000G流量。<br>
 
-# [2.SakuraCat](https://sakuracat-1.com/register?code=5VvOcFV0)
+# [4.SakuraCat](https://sakuracat-1.com/register?code=5VvOcFV0)
 
     - SakuraCat 翻墙机场
     - 拥有多条商务级优化线路
@@ -60,12 +95,12 @@ https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/clash.yml
     - 进阶2：￥13.8/月，210G流量/月。<br>
     - 巨量1：￥25.8/月，480G流量/月。<br>
     **按流量算，不限时** <br>
-    - 轻量：￥9.8/月，20G流量。<br>
-    - 中量：￥19.8/月，100G流量。<br>
-    - 巨量：￥38.8/月，260G流量。<br>
+    - 轻量：￥9.8，20G流量。<br>
+    - 中量：￥19.8，100G流量。<br>
+    - 巨量：￥38.8，260G流量。<br>
 
 
-# [3.SpeedCAT 闪电猫机场](https://scaff01.scvipaff.com/auth/register?code=Hf3Q)
+# [5.SpeedCAT 闪电猫机场](https://scaff01.scvipaff.com/auth/register?code=Hf3Q)
     - IPLC 专线节点
     - 高端翻墙机场
     - Shadowsocks 翻墙机场
@@ -79,7 +114,7 @@ https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/clash.yml
     - 霹雳猫：¥79/月，500G流量/月。<br>
     - 雷神猫：¥155/月，1000G流量/月。<br>
 
-# [4.橘子云 – 便宜老牌翻墙机场](https://juzi69.com/auth/register?code=mlvr)
+# [6.橘子云 – 便宜老牌翻墙机场](https://juzi69.com/auth/register?code=mlvr)
     - 老牌翻墙机场
     - 稳定中转机场
     - IPLC专线翻墙机场
@@ -93,7 +128,4 @@ https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/clash.yml
     - 旗舰版：￥59.9/月，600G流量，不限速，限16台设备。包含IPLC在内的全节点解锁。<br>
     - 旗舰大流量：￥99/月，1200G流量，不限速，限16台设备。包含IPLC在内的全节点解锁。<br>
     
-
-
-
 
