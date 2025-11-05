@@ -44,24 +44,7 @@ https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/clash.yml
     - 套餐3：￥133.00，6000G流量。<br>
     - 套餐4：￥343.00，20000G流量。<br>
 
-# [2.流量光机场](https://llgjc1.com/#/register?code=IAbqU33J)
-
-    - 超便宜低价高速机场
-
-**套餐价格：**<br>
-    **按月算**<br>
-    - 体验套餐：￥4.90/月，150G流量/月。<br>
-    - 高级套餐：￥9.90/月，300G流量/月。<br>
-    - 豪华套餐：￥14.90/月，500G流量/月。<br>
-    **按年算**<br>
-    - 年付套餐：￥20.00/年，60G流量/月。<br>
-    - 年付套餐Pro：￥40.00/年，150G流量/月。<br>
-    - 年付套餐ProMax：￥75.00/年，300G流量/月。<br>
-    **按流量算，不限时**<br>
-    - 套餐1：￥55.00，1000G流量。<br>
-    - 套餐2：￥135.00，3000G流量。<br>
-
-# [3.CloudFisher](https://cloudfisher.net/web/#/login?code=FI1BJ8O7)
+# [2.CloudFisher](https://cloudfisher.net/web/#/login?code=FI1BJ8O7)
 
     - CloudFisher 翻墙机场
     - 5000Mbps千兆网络
@@ -80,6 +63,23 @@ https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/clash.yml
     **按流量算，不限时**<br>
     - 套餐1：￥40.00，300G流量。<br>
     - 套餐2：￥80.00，1000G流量。<br>
+
+# [3.流量光机场](https://llgjc1.com/#/register?code=IAbqU33J)
+
+    - 超便宜低价高速机场
+
+**套餐价格：**<br>
+    **按月算**<br>
+    - 体验套餐：￥4.90/月，150G流量/月。<br>
+    - 高级套餐：￥9.90/月，300G流量/月。<br>
+    - 豪华套餐：￥14.90/月，500G流量/月。<br>
+    **按年算**<br>
+    - 年付套餐：￥20.00/年，60G流量/月。<br>
+    - 年付套餐Pro：￥40.00/年，150G流量/月。<br>
+    - 年付套餐ProMax：￥75.00/年，300G流量/月。<br>
+    **按流量算，不限时**<br>
+    - 套餐1：￥55.00，1000G流量。<br>
+    - 套餐2：￥135.00，3000G流量。<br>
 
 # [4.SakuraCat](https://sakuracat-1.com/register?code=5VvOcFV0)
 
