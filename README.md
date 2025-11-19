@@ -53,6 +53,8 @@ https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/clash.yml
     - 99+应用支持
     - 多平台支持Android&IOS&Windows&macOS
 
+    - 个人使用体验：比较稳定，使用体验相对不错
+
 **套餐价格：**<br>
     **按月算**<br>
     - 套餐1：￥9.00/月，120G流量/月。<br>
@@ -89,6 +91,8 @@ https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/clash.yml
     - 俄罗斯&土耳其&阿根廷低价购物节点
     - 支持多设备同时使用
     - 多平台支持Android&IOS&Windows&macOS
+
+    - 不用魔法也可访问
 
 **套餐价格：**<br>
     **按月算**<br>
