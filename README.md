@@ -25,24 +25,6 @@ https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/clash.yml
 **网上收集来的，自己按需使用吧**
 
 
-# [1.赔钱机场](https://xn--mes358aby2apfg.site/register?code=JuashL7z)
-
-    - 超便宜低价高速机场
-
-    个人使用体验：虽然便宜，但是不稳定，日常使用是可以，对网络要求高的不推荐
-
-**套餐价格：**<br>
-    **按月算**<br>
-    - 套餐1：￥2.00/月，100G流量/月。<br>
-    - 套餐2：￥4.00/月，500G流量/月。<br>
-    - 套餐3：￥9.00/月，1000G流量/月。<br>
-    - 套餐4：￥19.00/月，5000G流量/月。<br>
-    - 套餐5：￥60.00/月，20000G流量/月。<br>
-    **按流量算，不限时**<br>
-    - 套餐1：￥28.00，1000G流量。<br>
-    - 套餐2：￥103.00，4000G流量。<br>
-    - 套餐3：￥133.00，6000G流量。<br>
-    - 套餐4：￥343.00，20000G流量。<br>
 
 # [2.CloudFisher](https://cloudfisher.net/web/#/login?code=FI1BJ8O7)
 
