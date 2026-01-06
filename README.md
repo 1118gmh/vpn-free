@@ -24,9 +24,26 @@ https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/clash.yml
 **以下为付费vpn购买官网,有些需魔法上网,若无法魔法上网可以先用免费vpn连接后再进行购买**
 **网上收集来的，自己按需使用吧**
 
+# [1.赔钱机场](https://xn--mes358aby2apfg.site/register?code=JuashL7z)
 
+    - 超便宜低价高速机场
 
-# [1.CloudFisher](https://cloudfisher.net/web/#/login?code=FI1BJ8O7)
+    个人使用体验：虽然便宜，但是不稳定，日常使用是可以，对网络要求高的不推荐
+
+**套餐价格：**<br>
+    **按月算**<br>
+    - 套餐1：￥2.00/月，100G流量/月。<br>
+    - 套餐2：￥4.00/月，500G流量/月。<br>
+    - 套餐3：￥9.00/月，1000G流量/月。<br>
+    - 套餐4：￥19.00/月，5000G流量/月。<br>
+    - 套餐5：￥60.00/月，20000G流量/月。<br>
+    **按流量算，不限时**<br>
+    - 套餐1：￥28.00，1000G流量。<br>
+    - 套餐2：￥103.00，4000G流量。<br>
+    - 套餐3：￥133.00，6000G流量。<br>
+    - 套餐4：￥343.00，20000G流量。<br>
+
+# [2.CloudFisher](https://cloudfisher.net/web/#/login?code=FI1BJ8O7)
 
     - CloudFisher 翻墙机场
     - 5000Mbps千兆网络
@@ -49,7 +66,7 @@ https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/clash.yml
     - 套餐2：￥80.00，1000G流量。<br>
 
 
-# [2.SakuraCat](https://sakuracat-1.com/register?code=5VvOcFV0)
+# [3.SakuraCat](https://sakuracat-1.com/register?code=5VvOcFV0)
 
     - SakuraCat 翻墙机场
     - 拥有多条商务级优化线路
@@ -73,7 +90,7 @@ https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/clash.yml
     - 巨量：￥38.8，260G流量。<br>
 
 
-# [3.SpeedCAT 闪电猫机场](https://scaff01.scvipaff.com/auth/register?code=Hf3Q)
+# [4.SpeedCAT 闪电猫机场](https://scaff01.scvipaff.com/auth/register?code=Hf3Q)
     - IPLC 专线节点
     - 高端翻墙机场
     - Shadowsocks 翻墙机场
@@ -87,7 +104,7 @@ https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/clash.yml
     - 霹雳猫：¥79/月，500G流量/月。<br>
     - 雷神猫：¥155/月，1000G流量/月。<br>
 
-# [4.橘子云 – 便宜老牌翻墙机场](https://juzi69.com/auth/register?code=mlvr)
+# [5.橘子云 – 便宜老牌翻墙机场](https://juzi69.com/auth/register?code=mlvr)
     - 老牌翻墙机场
     - 稳定中转机场
     - IPLC专线翻墙机场
